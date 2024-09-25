@@ -1,0 +1,55 @@
+1.computer amar akjon expert,talent,genious friend.Computer er sathe amake kotha bolte hole amake programming language er maddome kotha bolte hobe.
+2.kono problem solution k code akare likhte jawar age problem tike mathai & khatai  solve kore then code akare likhte hobe
+
+3.natural number : {1,2,3,4,5,...}
+4.whole number : {0,1,2,3,4,5,...}
+5.Integers number :: {...,-5,-4,-3,-2,-1.0,1,2,3,4,5,...}
+6.rational number : molod sonka--->2t sonkake fraction akare prokash kora gele seti molod sonka(2/3,7/3,0.151515151515...)(0.5,0.9,1.5,1/2,5/4...)
+7.irrational number : omolod sonka---->2t sonkake fraction akare prokash kora jabena(pi-->3.14159...,root(2),root(3),...)
+
+8.division:
+
+11/5 = 2
+11%5 = 1
+here ,
+11=Dividend (Bhajjo)
+5=Divisor (Bhajok)
+2=Quotient (Bhagfol)
+1=reminder (Bhagshesh)
+
+9.p is a factor of q. explain it.
+Ans:p divides q evenly (reminder is 0).1,2,3,4,6,12 is a factor of 12.
+
+10.What is prime number?
+Ans : prime number is a number which have only two factors.1 & itself.
+
+11.Composists number?
+ans: it have exists at least one factor other than 1 & itself
+
+12.
+Real Number : ...,-ve number,0,+ve number,...
+Integer Number : 0,1,2,3,...
+Natural Number : 1,2,3,...
+Positve Number : A positive number is any number that is greater than zero
+0 is not Positive,Not negative.0 is 0
+
+13.
+divisor : jeta die bhag kora hoi
+dividend : jetake bhag kori
+quotient : bhagfol
+reminder : bhagshesh
+factor:
+prime number : 
+Even number :
+Odd Number :
+Floor :
+Ceiling :
+Round :
+let x = 12.65
+here,
+floor-12,ceil-13,round-13
+
+14.
+//start from 3-2 Improving divisor counting.
+
+
